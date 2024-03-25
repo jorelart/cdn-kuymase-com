@@ -21,7 +21,7 @@ author: Jorel Art
 
 navbar-links:
   About Me: "aboutme"
-  Tools:
+  Awesome Tools:
     - HTML Parser: "https://www.kuymase.com/p/parse-code_18.html"
     - Javascript Packer: "https://www.kuymase.com/p/javascript-encoder.html"
     - SVG to CSS Converter: "https://www.kuymase.com/p/svg-to-css.html"
