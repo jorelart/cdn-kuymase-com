@@ -20,13 +20,14 @@ author: Jorel Art
 ###############################################
 
 navbar-links:
+  Blog : "blog"
   About Me: "aboutme"
   Awesome Tools:
     - HTML Parser: "https://www.kuymase.com/p/parse-code_18.html"
     - Javascript Packer: "https://www.kuymase.com/p/javascript-encoder.html"
     - SVG to CSS Converter: "https://www.kuymase.com/p/svg-to-css.html"
     - CSS Minifier: "https://www.kuymase.com/p/css-minifier.html"
-  Author's home: "https://www.kuynase.com"
+  Author's home: "https://www.kuymase.com"
 
 ################
 # --- Logo --- #
