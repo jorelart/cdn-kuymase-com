@@ -177,9 +177,6 @@ footer-hover-col: "#0085A1"
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
 #cloudflare_analytics: ""
 
-# try google adsense
-- href: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2109216491899606"
-
 # Google Tag Manager ID
 #gtm: ""
 
